@@ -6,5 +6,6 @@ A strip of 60 WS8212B programmable LED's was used to create this device.  The AT
 As is customary today, you get the source file in Arduino-C.  After constructing one of these - see our YouTube video, you may want to diddle around witht the code.
 
 Have fun,
+
 Luhan Monat
 
